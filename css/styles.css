@@ -42,6 +42,9 @@
             font-size: large;
             padding: 10px;
         }
+        .nav-link{
+            color: violet;
+        }
         h4{
             text-align: center;
             padding: 30px;
