@@ -2,6 +2,36 @@
             font-family: "manrope";
             margin: 20px;
         }
+        .logo{
+            font-size: 70px;
+        }
+        h1{
+            border-style: solid;
+            text-align: center;
+            padding: 50px;
+            margin: 50px;
+            font-family: "pacifico";
+            font-size: 50px;
+        }
+        h2,h3{
+          padding: 10px;
+          font-family: "pacifico";
+          text-align: center;
+        }
+        img{
+            width: 500px;
+        }
+        .about-us{
+            text-align: center;
+            margin: 0px 100px 0 100px;
+            padding: 50px;
+            font-size: large;
+        }
+        .project1{
+            width: 800px;
+            margin: 0 auto;
+            padding: 50px;
+        }
         a{
             text-decoration: none;
             color: violet
@@ -12,7 +42,7 @@
             font-size: large;
             padding: 10px;
         }
-        h1,h4{
+        h4{
             text-align: center;
             padding: 30px;
             font-family: "pacifico" ;
