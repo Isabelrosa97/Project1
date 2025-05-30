@@ -25,8 +25,8 @@ To improve this website I would:
 
 
 # User Story
-As a customer I want to easily navigate through a website so that I can find procuts and make purchases in a timely manner
+1. As a customer I want to easily navigate through a website so that I can find procuts and make purchases in a timely manner
 
-As a customer I want to easily identify an item so that I can decide whether I want the item or not 
+2. As a customer I want to easily identify an item so that I can decide whether I want the item or not 
 
-As a customer I want to sign up for emails so that I can recieve discounts
+3. As a customer I want to sign up for emails so that I can recieve discounts
