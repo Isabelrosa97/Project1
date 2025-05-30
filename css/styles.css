@@ -1,15 +1,22 @@
         body{
             font-family: "manrope";
             margin: 20px;
-            background-image: url(..);
+            background-image: url(../Images/backgroundamethyst.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            width: 100vw;
+            height: 100vh;
         }
         .logo{
-            font-size: 70px;
+            font-size: 60px;
             border: none;
-            padding: 30px;
+            padding: 10px;
+            color: black;
         }
         h1{
             border-style: solid;
+            border-color: violet;
             text-align: center;
             padding: 50px;
             margin: 50px;
@@ -32,7 +39,7 @@
         .about-us{
             text-align: center;
             margin: 0px 100px 0 100px;
-            padding: 50px;
+            padding: 30px;
             font-size: large;
         }
         .project{
@@ -43,9 +50,9 @@
         a{
             color: black;
             padding: 20px;
+            text-decoration: none;
         }
         nav{
-            background-color: black;
             font-family: "pacifico";
             font-size: large;
             padding: 5px;
@@ -78,8 +85,8 @@
             text-align: center;
         }
         button{
-            background-color: pink;
-            border-color: aqua;
+            background-color: white;
+            border-color: violet;
         }
         div{
             text-align: center;
@@ -87,4 +94,8 @@
         ul{
             display: inline-block;
             text-align: left;
+        }
+        .form-row{
+            padding: 5px;
+            color: violet;
         }
