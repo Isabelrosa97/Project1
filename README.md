@@ -21,4 +21,10 @@ To improve this website I would:
 - Add more pictures to the homepage to show what else is offered to capture the users attention even more
 - Instead of putting the products all in one page I would seperate the pages for a cleaner, more professional look
 - Add a message box to the contacts page as well just in case a user wants to give feedback
-- Create the wireframe on the computer instead of paper for a cleaner and more professional look
+- Add an items in cart page and put the contact form at the bottom of the homepage
+
+
+# User Story
+As a customer
+I want to easily navigate through a website
+So that I can find procuts and make purchases in a timely manner 
