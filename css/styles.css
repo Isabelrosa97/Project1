@@ -1,9 +1,12 @@
         body{
             font-family: "manrope";
             margin: 20px;
+            background-image: url(..);
         }
         .logo{
             font-size: 70px;
+            border: none;
+            padding: 30px;
         }
         h1{
             border-style: solid;
@@ -18,6 +21,11 @@
           font-family: "pacifico";
           text-align: center;
         }
+        h4{
+            text-align: center;
+            padding: 30px;
+            font-family: "pacifico" ;
+        }
         img{
             width: 500px;
         }
@@ -27,28 +35,24 @@
             padding: 50px;
             font-size: large;
         }
-        .project1{
+        .project{
             width: 800px;
             margin: 0 auto;
             padding: 50px;
         }
         a{
-            text-decoration: none;
-            color: violet
+            color: black;
+            padding: 20px;
         }
         nav{
             background-color: black;
             font-family: "pacifico";
             font-size: large;
-            padding: 10px;
+            padding: 5px;
         }
         .nav-link{
             color: violet;
-        }
-        h4{
-            text-align: center;
-            padding: 30px;
-            font-family: "pacifico" ;
+            text-decoration: none;
         }
         .grid-container{
             display: grid;
@@ -76,4 +80,11 @@
         button{
             background-color: pink;
             border-color: aqua;
+        }
+        div{
+            text-align: center;
+        }
+        ul{
+            display: inline-block;
+            text-align: left;
         }
