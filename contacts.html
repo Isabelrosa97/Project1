@@ -20,5 +20,34 @@
     <h2>Join the Community</h2>
     <p> Sign up for updates, discounts, & more! </p>
     </div>
+    <form action="https://formspree.io/f/myzjgzow" method="POST">
+        <div class="form-row">
+            <label>
+                First Name: 
+                <input type="text" name="First Name" required />
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                Email:
+                <input type="email" name="email" required />
+            </label>
+        </div>
+        <div class="form-row">
+        <label>
+            Preferred Item:
+            <select name="favorite-crystal">
+                <option value="Amethyst">Amethyst</option>
+                <option value="Citrine">Citrine</option>
+                <option value="Quartz"> Clear Quartz</option>
+                <option value="Sapphire">Sapphire</option>
+            </select>
+        </label>
+        </div>
+        <div class="form-row">
+            <button type="submit">Join</button>
+            <button type="reset">Clear</button>
+        </div>
+    </form>
 </body>
 </html>
